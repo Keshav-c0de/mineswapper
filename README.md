@@ -3,30 +3,10 @@
 A terminal-based implementation of the classic game Minesweeper, built entirely in Python.
 🌟 Features
 
-1.Dynamic Board Generation: Creates a custom board of any dim_size with a specified num_bombs.
-
-2.Recursive Digging (Flood Fill): Automatically reveals large, safe areas (zero-value cells) using a recursive algorithm.
-
-3.Neighbor Counting: Accurately assigns numbers to cells based on adjacent bomb count.
-
-4.Terminal Visualization: Displays the game board clearly using standard character formatting.
-
-🚀 Getting Started
-Prerequisites
-
-You need Python 3 installed on your system. No external libraries are strictly required as this uses only built-in modules (random and re).
-How to Run
-
-Clone this repository to your local machine: Bash
-
-git clone [YOUR_REPO_URL]
-cd minesweeper-clone
-
-Execute the main script:
-Bash
-
-python minesweeper.py
-
+   1.Dynamic Board Generation: Creates a custom board of any dim_size with a specified num_bombs.
+   2.Recursive Digging (Flood Fill): Automatically reveals large, safe areas (zero-value cells) using a recursive algorithm.
+   3.Neighbor Counting: Accurately assigns numbers to cells based on adjacent bomb count.
+   4.Terminal Visualization: Displays the game board clearly using standard character formatting.
 
 🎮 How to Play
 
